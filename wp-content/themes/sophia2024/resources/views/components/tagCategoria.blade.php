@@ -1,0 +1,1 @@
+<h4 class="newsbox__category"><a href="{{ $category_link }}" class="{{ $class }}">{{ $category_name }}</a></h4>

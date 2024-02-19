@@ -1,0 +1,4 @@
+<a href="<?php echo $link_facebook; ?>" target="_blank" class="btn-shared-facebook"><img src="<?= \Roots\asset('images/icons/share-facebook'.$type.'.svg'); ?>" width="24" height="24" alt="Facebook"/></a>
+<a href="<?php echo $link_twitter; ?>" target="_blank" class="btn-shared-twitter" title="<?php echo $title; ?>" data-via="revistasophia" ><img src="<?= \Roots\asset('images/icons/share-twitter'.$type.'.svg'); ?>" width="24" height="24" alt="Twitter"/></a>
+<a href="<?php echo $link_whatsapp; ?>" target="_blank" class="btn-shared-whatsapp"><img src="<?= \Roots\asset('images/icons/share-whatsapp'.$type.'.svg'); ?>" width="24" height="24" alt="Whatsapp"/></a>
+<?php /**PATH /home/customer/www/carolinaa8.sg-host.com/public_html/wp-content/themes/sophia2024/resources/views/components/shared.blade.php ENDPATH**/ ?>

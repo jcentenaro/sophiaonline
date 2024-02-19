@@ -1,0 +1,1 @@
+<h4 class="newsbox__category"><a href="<?php echo e($category_link); ?>" class="<?php echo e($class); ?>"><?php echo e($category_name); ?></a></h4><?php /**PATH /home/customer/www/carolinaa8.sg-host.com/public_html/wp-content/themes/sophia2024/resources/views/components/tagCategoria.blade.php ENDPATH**/ ?>

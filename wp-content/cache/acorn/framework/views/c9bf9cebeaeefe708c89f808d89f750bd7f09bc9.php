@@ -1,0 +1,1 @@
+<span class="fb-like" data-href="<?php (the_permalink()); ?>" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></span><?php /**PATH /home/customer/www/carolinaa8.sg-host.com/public_html/wp-content/themes/sophia2024/resources/views/components/fb/btnLike.blade.php ENDPATH**/ ?>
